@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shizuya",
  "yomi": "しづやのうたしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "江戸中期",
+  "author": "河津美樹（加藤宇万伎、1721〜1777）",
+  "desc": "真淵門の河津（加藤）美樹の家集。師の詠み捨てた歌を書き留めておいたものを、県居（真淵）の歌集の刊行に合わせて添えたと、門人上田秋成の跋にいう。"
+ },
  "editions": [
   {
    "pid": "993380",
